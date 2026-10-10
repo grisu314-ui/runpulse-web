@@ -32,7 +32,9 @@ Heart rate can be health data. The app processes it only to guide and record you
 3. **Google Play**: Installation and updates run through Google Play. If you allowed Android to send usage and diagnostics data, Google receives data on crashes of the app, which the provider sees in the Play Console. Google's privacy policy applies.
 4. **Export**: When you export a workout, the app saves the file where you put it in the Android file dialog, for example in Downloads or with a cloud service. Optionally it contains no coordinates, only meters relative to the start point.
 
-Transfers to intervals.icu and OpenTopoMap are encrypted with HTTPS.
+5. **GitHub** (GitHub, Inc.): When you tap “Report a bug” or “Suggest an idea” in the app, the app opens the page at GitHub in the browser. For a bug, the address contains the app version, Android version and phone model so that they appear in the form; GitHub receives them when the page opens. Only what you submit there is published. GitHub's privacy policy applies.
+
+Transfers to intervals.icu, OpenTopoMap and GitHub are encrypted with HTTPS.
 
 ## Backup and new devices
 

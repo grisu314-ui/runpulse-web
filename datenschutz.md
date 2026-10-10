@@ -32,7 +32,9 @@ Die Herzfrequenz kann ein Gesundheitsdatum sein. Die App verarbeitet sie nur, um
 3. **Google Play**: Installation und Updates laufen über Google Play. Hast du in Android das Senden von Nutzungs und Diagnosedaten erlaubt, erhält Google Daten zu Abstürzen der App, die der Anbieter in der Play Console sieht. Dafür gilt die Datenschutzerklärung von Google.
 4. **Export**: Exportierst du ein Training, legt die App die Datei dort ab, wo du sie im Dateidialog von Android speicherst, zum Beispiel unter Downloads oder bei einem Cloud Dienst. Wahlweise enthält sie keine Koordinaten, nur Meter relativ zum Startpunkt.
 
-Die Übertragungen zu intervals.icu und OpenTopoMap sind mit HTTPS verschlüsselt.
+5. **GitHub** (GitHub, Inc.): Tippst du in der App auf „Fehler melden“ oder „Idee vorschlagen“, öffnet die App die Seite bei GitHub im Browser. Beim Fehler enthält die Adresse App Version, Android Version und Handymodell, damit sie im Formular stehen; GitHub erhält sie beim Öffnen der Seite. Veröffentlicht wird erst, was du dort abschickst. Dafür gilt die Datenschutzerklärung von GitHub.
+
+Die Übertragungen zu intervals.icu, OpenTopoMap und GitHub sind mit HTTPS verschlüsselt.
 
 ## Sicherung und Gerätewechsel
 
