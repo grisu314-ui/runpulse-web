@@ -20,6 +20,7 @@ RunPulse stores your workouts only on your device. The provider runs no server a
 - Heart rate and the intervals between heartbeats (RR intervals) from your Bluetooth chest strap, and its battery level.
 - Precise location from your device's GPS during a workout, and the air pressure for the elevation if your device has a barometer and you have not turned it off.
 - Times, duration and steps of your workouts and the announcements of the app.
+- Your optional answers after a workout: effort, feeling, legs, sleep, complaints and a note.
 - Your planned runs and heart rate zones, which the app fetches from intervals.icu.
 - Your personal intervals.icu API key, stored encrypted with a key from the Android Keystore.
 
@@ -27,7 +28,7 @@ Heart rate can be health data. The app processes it only to guide and record you
 
 ## When data leaves your device
 
-1. **intervals.icu** (intervals.icu Ltd, London, United Kingdom): The app fetches your planned runs and heart rate zones with your key. A workout goes to intervals.icu only when you upload it; the app then sends the workout file with heart rate, RR intervals, location history, elevation and times. The [privacy policy of intervals.icu](https://www.intervals.icu/privacy-policy/) applies to its processing.
+1. **intervals.icu** (intervals.icu Ltd, London, United Kingdom): The app fetches your planned runs and heart rate zones with your key. A workout goes to intervals.icu only when you upload it; the app then sends the workout file with heart rate, RR intervals, location history, elevation and times. If you answered the questions after the workout, the answers go along as the description of the activity. The [privacy policy of intervals.icu](https://www.intervals.icu/privacy-policy/) applies to its processing.
 2. **OpenTopoMap** (opentopomap.org): Only if you have agreed to the map, the app loads map tiles for the area of your route when you open a report with GPS. Without your consent the report shows the route without a map; you can change the choice in the settings under “Map”. The map service then receives your IP address and the numbers of the tiles, that is the area of your workout, to within a few hundred meters up to a few kilometers depending on the length of the route. It does not receive the route itself. The app keeps the tiles in the cache of the device and loads them again after 30 days; Android can clear this cache at any time.
 3. **Google Play**: Installation and updates run through Google Play. If you allowed Android to send usage and diagnostics data, Google receives data on crashes of the app, which the provider sees in the Play Console. Google's privacy policy applies.
 4. **Export**: When you export a workout, the app saves the file where you put it in the Android file dialog, for example in Downloads or with a cloud service. Optionally it contains no coordinates, only meters relative to the start point.
