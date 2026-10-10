@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Idee oder Wunsch / Idea or wish
+    url: https://github.com/grisu314-ui/runpulse-web/discussions/categories/ideas
+    about: Neue Ideen und Stimmen für bestehende in den Discussions. / New ideas and votes for existing ones in Discussions.

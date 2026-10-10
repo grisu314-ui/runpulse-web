@@ -1,0 +1,56 @@
+name: Fehler melden / Report a bug
+description: Etwas in RunPulse funktioniert nicht wie erwartet. / Something in RunPulse does not work as expected.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hast du denselben Fehler schon in der Liste gefunden? Dann gib ihm lieber ein 👍, statt einen neuen zu eröffnen. Wünsche und Ideen gehören in die [Ideen](https://github.com/grisu314-ui/runpulse-web/discussions/categories/ideas).
+
+        Already listed? Add a 👍 to it instead of opening a new one. Wishes and ideas go to [Ideas](https://github.com/grisu314-ui/runpulse-web/discussions/categories/ideas).
+
+        Alles hier ist öffentlich. Bitte keine Bildschirmfotos mit Karte, keine Ortsangaben und nie deinen API Schlüssel. / Everything here is public. No screenshots with a map, no locations, never your API key.
+  - type: input
+    id: version
+    attributes:
+      label: App Version / App version
+      description: In der App unter Einstellungen, Über RunPulse. / In the app under Settings, About RunPulse.
+    validations:
+      required: true
+  - type: input
+    id: android
+    attributes:
+      label: Android Version
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Handy / Phone
+      placeholder: Hersteller und Modell / maker and model
+  - type: input
+    id: strap
+    attributes:
+      label: Brustgurt / Chest strap
+      placeholder: Hersteller und Modell / maker and model
+  - type: textarea
+    id: what
+    attributes:
+      label: Was ist passiert? / What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Wie lässt es sich auslösen? / How can it be reproduced?
+  - type: textarea
+    id: expected
+    attributes:
+      label: Was hast du erwartet? / What did you expect?
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Datenschutz / Privacy
+      options:
+        - label: Ich habe keine Bildschirmfotos mit Karte, keine Ortsangaben und keinen API Schlüssel eingefügt. / I added no screenshots with a map, no locations and no API key.
+          required: true
