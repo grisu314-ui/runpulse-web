@@ -31,7 +31,7 @@ Heart rate can be health data. The app processes it only to guide and record you
 1. **intervals.icu** (intervals.icu Ltd, London, United Kingdom): The app fetches your planned runs and heart rate zones with your key. A workout goes to intervals.icu only when you upload it; the app then sends the workout file with heart rate, RR intervals, location history, elevation and times. If you answered the questions after the workout, the answers go along as the description of the activity. The [privacy policy of intervals.icu](https://www.intervals.icu/privacy-policy/) applies to its processing.
 2. **OpenTopoMap** (opentopomap.org): Only if you have agreed to the map, the app loads map tiles for the area of your route when you open a report with GPS. Without your consent the report shows the route without a map; you can change the choice in the settings under “Map”. The map service then receives your IP address and the numbers of the tiles, that is the area of your workout, to within a few hundred meters up to a few kilometers depending on the length of the route. It does not receive the route itself. The app keeps the tiles in the cache of the device and loads them again after 30 days; Android can clear this cache at any time.
 3. **Google Play**: Installation and updates run through Google Play. If you allowed Android to send usage and diagnostics data, Google receives data on crashes of the app, which the provider sees in the Play Console. Google's privacy policy applies.
-4. **Export**: When you export a workout, the app saves the file where you put it in the Android file dialog, for example in Downloads or with a cloud service. Optionally it contains no coordinates, only meters relative to the start point.
+4. **Export and backup**: When you export a workout, save its FIT file or back up all workouts as a ZIP file, the app saves the file where you put it in the Android file dialog, for example in Downloads or with a cloud service. Optionally the export contains no coordinates, only meters relative to the start point. The FIT file and the backup contain the location history; the backup also contains the upload state and your answers after the workout, never your key.
 
 5. **GitHub** (GitHub, Inc.): When you tap “Report a bug” or “Suggest an idea” in the app, the app opens the page at GitHub in the browser. For a bug, the address contains the app version, Android version and phone model so that they appear in the form; GitHub receives them when the page opens. Only what you submit there is published. GitHub's privacy policy applies.
 
@@ -39,7 +39,7 @@ Transfers to intervals.icu, OpenTopoMap and GitHub are encrypted with HTTPS.
 
 ## Backup and new devices
 
-The app excludes its data from cloud backup. If you move to a new device with Android's direct device-to-device transfer, Android may take the data of the app along.
+The app excludes its data from cloud backup. If you move to a new device with Android's direct device-to-device transfer, Android may take the data of the app along. You can back up your workouts yourself in the settings under “Data” (see export and backup).
 
 ## Legal basis
 
