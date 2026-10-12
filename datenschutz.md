@@ -56,6 +56,6 @@ Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Vera
 
 ## Kontakt
 
-[Mailadresse]
+runpulse@der-asymmetriker.de
 
-Stand: [Datum]
+Stand: 10.2026
