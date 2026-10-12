@@ -10,7 +10,14 @@ RunPulse ist eine Android App, die dich mit deinem Bluetooth Brustgurt pulsgeste
 RunPulse ist kein Medizinprodukt und nicht mit intervals.icu verbunden.
 
 - [Datenschutzerklärung](datenschutz.html)
+- [Impressum](impressum.html)
 - Kontakt: runpulse@der-asymmetriker.de
+
+### Was RunPulse bei intervals.icu liest und schreibt
+
+- Liest deine geplanten Läufe aus dem Kalender, deine Pulszonen für Laufen und deine Wellness Werte des Tages (nur um vor dem Ersetzen nachzufragen).
+- Schreibt nur auf deinen Knopfdruck: den aufgezeichneten Lauf als Aktivität, gepaart mit dem geplanten Lauf, und deine Morgenwerte in die Wellness des Tages.
+- Sucht vor einem erneuten Hochladen den eigenen Lauf in deinen Aktivitäten, damit nichts doppelt ankommt.
 
 ### Feedback
 
@@ -25,7 +32,14 @@ RunPulse is an Android app that guides you by heart rate through planned runs fr
 RunPulse is not a medical device and not affiliated with intervals.icu.
 
 - [Privacy policy](privacy.html)
+- [Legal notice](impressum.html)
 - Contact: runpulse@der-asymmetriker.de
+
+### What RunPulse reads and writes at intervals.icu
+
+- Reads your planned workouts from the calendar, your heart rate zones for running and your wellness values of the day (only to ask before replacing them).
+- Writes only when you tap the button: the recorded run as an activity, paired with the planned workout, and your morning values to the wellness of the day.
+- Before uploading again, looks for its own run among your activities, so nothing arrives twice.
 
 ### Feedback
 
