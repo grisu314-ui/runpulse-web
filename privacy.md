@@ -56,6 +56,6 @@ You have the right of access, rectification, erasure, restriction of processing,
 
 ## Contact
 
-[Email address]
+runpulse@der-asymmetriker.de
 
-Last updated: [date]
+Last updated: 10-2026
