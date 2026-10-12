@@ -10,7 +10,7 @@ RunPulse ist eine Android App, die dich mit deinem Bluetooth Brustgurt pulsgeste
 RunPulse ist kein Medizinprodukt und nicht mit intervals.icu verbunden.
 
 - [Datenschutzerklärung](datenschutz.html)
-- Kontakt: [Mailadresse]
+- Kontakt: runpulse@der-asymmetriker.de
 
 ### Feedback
 
@@ -25,7 +25,7 @@ RunPulse is an Android app that guides you by heart rate through planned runs fr
 RunPulse is not a medical device and not affiliated with intervals.icu.
 
 - [Privacy policy](privacy.html)
-- Contact: [email address]
+- Contact: runpulse@der-asymmetriker.de
 
 ### Feedback
 
