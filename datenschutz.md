@@ -7,9 +7,9 @@ lang: de
 
 ## Verantwortlicher
 
-[Vorname Name]<br>
-[Anschrift]<br>
-[Mailadresse für Datenschutzfragen]
+Dirk Rausch<br>
+Hintere Fröhnstraße 12, 66849 Landstuhl<br>
+runpulse@der-asymmetriker.de
 
 ## Grundsatz
 
