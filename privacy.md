@@ -7,9 +7,9 @@ lang: en
 
 ## Controller
 
-[First name last name]<br>
-[Address]<br>
-[Email address for privacy questions]
+Dirk Rausch<br>
+Hintere Fröhnstraße 12, 66849 Landstuhl, Germany<br>
+runpulse@der-asymmetriker.de
 
 ## Principle
 
