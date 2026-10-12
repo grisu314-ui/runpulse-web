@@ -16,7 +16,7 @@ RunPulse ist kein Medizinprodukt und nicht mit intervals.icu verbunden.
 
 - **Ideen und Wünsche:** in den [Ideen](https://github.com/grisu314-ui/runpulse-web/discussions/categories/ideas). Stimme für bestehende Ideen; die mit den meisten Stimmen stehen oben, wenn du nach „Top“ sortierst.
 - **Fehler:** über [Fehler melden](https://github.com/grisu314-ui/runpulse-web/issues/new/choose); hat jemand denselben Fehler schon gemeldet, gib ihm ein 👍.
-- Beides braucht ein GitHub Konto und ist öffentlich. Ohne Konto per Mail an [Mailadresse].
+- Beides braucht ein GitHub Konto und ist öffentlich. Ohne Konto per Mail an runpulse@der-asymmetriker.de.
 
 ## English
 
@@ -31,4 +31,4 @@ RunPulse is not a medical device and not affiliated with intervals.icu.
 
 - **Ideas and wishes:** in [Ideas](https://github.com/grisu314-ui/runpulse-web/discussions/categories/ideas). Vote for existing ideas; sorted by “Top”, the most voted come first.
 - **Bugs:** via [Report a bug](https://github.com/grisu314-ui/runpulse-web/issues/new/choose); if someone already reported it, give it a 👍.
-- Both need a GitHub account and are public. Without an account, by email to [email address].
+- Both need a GitHub account and are public. Without an account, by email to runpulse@der-asymmetriker.de.
