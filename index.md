@@ -15,7 +15,7 @@ RunPulse ist kein Medizinprodukt und nicht mit intervals.icu verbunden.
 
 ### Was RunPulse bei intervals.icu liest und schreibt
 
-- Liest deine geplanten Läufe aus dem Kalender, deine Pulszonen für Laufen und deine Wellness Werte des Tages (nur um vor dem Ersetzen nachzufragen).
+- Liest deine geplanten Läufe aus dem Kalender, deine Pulszonen für Laufen, deine Wellness Werte des Tages (nur um vor dem Ersetzen nachzufragen) und, wenn du sie im Verlauf lädst, Fitness und Ermüdung des letzten Jahres.
 - Schreibt nur auf deinen Knopfdruck: den aufgezeichneten Lauf als Aktivität, gepaart mit dem geplanten Lauf, und deine Morgenwerte in die Wellness des Tages.
 - Sucht vor einem erneuten Hochladen den eigenen Lauf in deinen Aktivitäten, damit nichts doppelt ankommt.
 
@@ -37,7 +37,7 @@ RunPulse is not a medical device and not affiliated with intervals.icu.
 
 ### What RunPulse reads and writes at intervals.icu
 
-- Reads your planned workouts from the calendar, your heart rate zones for running and your wellness values of the day (only to ask before replacing them).
+- Reads your planned workouts from the calendar, your heart rate zones for running, your wellness values of the day (only to ask before replacing them) and, when you load them in the history, fitness and fatigue of the last year.
 - Writes only when you tap the button: the recorded run as an activity, paired with the planned workout, and your morning values to the wellness of the day.
 - Before uploading again, looks for its own run among your activities, so nothing arrives twice.
 
