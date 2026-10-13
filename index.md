@@ -15,8 +15,9 @@ RunPulse ist kein Medizinprodukt und nicht mit intervals.icu verbunden.
 
 ### Was RunPulse bei intervals.icu liest und schreibt
 
-- Liest deine geplanten Läufe aus dem Kalender, deine Pulszonen für Laufen, deine Wellness Werte des Tages (nur um vor dem Ersetzen nachzufragen) und, wenn du sie im Verlauf lädst, Fitness und Ermüdung des letzten Jahres.
+- Liest deine geplanten Läufe aus dem Kalender, deine Pulszonen für Laufen, deine Wellness Werte des Tages (nur um vor dem Ersetzen nachzufragen) und, wenn du sie im Verlauf lädst, Fitness und Ermüdung des letzten Jahres; für den Coach auch deine weiteren Aktivitäten der letzten 4 Wochen.
 - Schreibt nur auf deinen Knopfdruck: den aufgezeichneten Lauf als Aktivität, gepaart mit dem geplanten Lauf, und deine Morgenwerte in die Wellness des Tages.
+- Coach: Übernimmst du den Plan, den deine KI App vorschlägt, legt RunPulse die Läufe in deinem Kalender an und löscht einzeln die, die du zum Ersetzen angehakt hast; neue Pulszonen nur nach deiner eigenen Zustimmung. Vergangene und erledigte Läufe bleiben unberührt.
 - Sucht vor einem erneuten Hochladen den eigenen Lauf in deinen Aktivitäten, damit nichts doppelt ankommt.
 
 ### Feedback
@@ -37,8 +38,9 @@ RunPulse is not a medical device and not affiliated with intervals.icu.
 
 ### What RunPulse reads and writes at intervals.icu
 
-- Reads your planned workouts from the calendar, your heart rate zones for running, your wellness values of the day (only to ask before replacing them) and, when you load them in the history, fitness and fatigue of the last year.
+- Reads your planned workouts from the calendar, your heart rate zones for running, your wellness values of the day (only to ask before replacing them) and, when you load them in the history, fitness and fatigue of the last year; for the coach also your other activities of the last 4 weeks.
 - Writes only when you tap the button: the recorded run as an activity, paired with the planned workout, and your morning values to the wellness of the day.
+- Coach: When you apply the plan your AI app proposes, RunPulse creates the runs in your calendar and deletes, one by one, those you ticked to be replaced; new heart rate zones only after your own consent. Past and finished runs stay untouched.
 - Before uploading again, looks for its own run among your activities, so nothing arrives twice.
 
 ### Feedback
