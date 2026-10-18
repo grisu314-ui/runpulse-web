@@ -3,7 +3,7 @@ title: Datenschutzerklärung
 lang: de
 ---
 
-# Datenschutzerklärung für die App RunPulse
+# Datenschutzerklärung für die App PulseRun
 
 ## Verantwortlicher
 
@@ -13,7 +13,7 @@ runpulse@der-asymmetriker.de
 
 ## Grundsatz
 
-RunPulse speichert deine Trainings nur auf deinem Gerät. Der Anbieter betreibt keinen Server; deine Trainings, deinen Standort und deine Anmeldung bei intervals.icu erhält er nicht. Die App enthält keine Werbung, kein Tracking und keine Analysedienste.
+PulseRun speichert deine Trainings nur auf deinem Gerät. Der Anbieter betreibt keinen Server; deine Trainings, deinen Standort und deine Anmeldung bei intervals.icu erhält er nicht. Die App enthält keine Werbung, kein Tracking und keine Analysedienste.
 
 ## Welche Daten die App auf deinem Gerät verarbeitet
 
