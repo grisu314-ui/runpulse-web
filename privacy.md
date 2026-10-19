@@ -3,7 +3,7 @@ title: Privacy policy
 lang: en
 ---
 
-# Privacy policy for the PulseRun app
+# Privacy policy for the RunPulse app
 
 ## Controller
 
@@ -13,7 +13,7 @@ runpulse@der-asymmetriker.de
 
 ## Principle
 
-PulseRun stores your workouts only on your device. The provider runs no server and does not receive your workouts, your location or your intervals.icu sign in. The app contains no ads, no tracking and no analytics.
+RunPulse stores your workouts only on your device. The provider runs no server and does not receive your workouts, your location or your intervals.icu sign in. The app contains no ads, no tracking and no analytics.
 
 ## Data the app processes on your device
 
