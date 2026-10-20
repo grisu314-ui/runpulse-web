@@ -7,7 +7,11 @@ lang: de
 
 RunPulse ist eine Android App, die dich mit deinem Bluetooth Brustgurt pulsgesteuert durch geplante Läufe aus intervals.icu führt. Sie sagt die Abschnitte an, meldet zu hohen und zu tiefen Puls, zeichnet Puls und GPS auf und lädt den Lauf auf Knopfdruck zu intervals.icu hoch. Deine Daten bleiben auf deinem Gerät; keine Werbung, kein Tracking.
 
-RunPulse ist kein Medizinprodukt und nicht mit intervals.icu verbunden.
+RunPulse ist nicht mit intervals.icu verbunden.
+
+### Wofür RunPulse da ist
+
+RunPulse ist für gesunde Erwachsene beim Lauftraining gedacht. Es ist kein Medizinprodukt, erkennt, behandelt, heilt oder verhindert keine Krankheit und hat keine Notfallfunktion. Alarme zu Puls und Zone helfen, die geplante Intensität zu treffen; sie schützen nicht vor gesundheitlichen Risiken. Fühlst du dich unwohl, brich das Training ab. Bei gesundheitlichen Fragen wende dich an eine Ärztin oder einen Arzt.
 
 - [Datenschutzerklärung](datenschutz.html)
 - [Impressum](impressum.html)
@@ -16,7 +20,7 @@ RunPulse ist kein Medizinprodukt und nicht mit intervals.icu verbunden.
 ### Was RunPulse bei intervals.icu liest und schreibt
 
 - Liest deine geplanten Läufe aus dem Kalender, deine Pulszonen für Laufen, deine Wellness Werte des Tages (nur um vor dem Ersetzen nachzufragen) und, wenn du sie im Verlauf lädst, Fitness und Ermüdung des letzten Jahres; für den Coach auch deine weiteren Aktivitäten der letzten 4 Wochen.
-- Schreibt nur auf deinen Knopfdruck: den aufgezeichneten Lauf als Aktivität, gepaart mit dem geplanten Lauf, und deine Morgenwerte in die Wellness des Tages.
+- Schreibt nur auf deinen Knopfdruck: den aufgezeichneten Lauf als Aktivität, gepaart mit dem geplanten Lauf, deine Morgenwerte in die Wellness des Tages und die Läufe eines Startplans, den du übernimmst, in deinen Kalender.
 - Coach: Übernimmst du den Plan, den deine KI App vorschlägt, legt RunPulse die Läufe in deinem Kalender an und löscht einzeln die, die du zum Ersetzen angehakt hast; neue Pulszonen nur nach deiner eigenen Zustimmung. Vergangene und erledigte Läufe bleiben unberührt.
 - Sucht vor einem erneuten Hochladen den eigenen Lauf in deinen Aktivitäten, damit nichts doppelt ankommt.
 
@@ -30,7 +34,11 @@ RunPulse ist kein Medizinprodukt und nicht mit intervals.icu verbunden.
 
 RunPulse is an Android app that guides you by heart rate through planned runs from intervals.icu, with your Bluetooth chest strap. It announces the steps, tells you when your heart rate is too high or too low, records heart rate and GPS and uploads the run to intervals.icu at the push of a button. Your data stays on your device; no ads, no tracking.
 
-RunPulse is not a medical device and not affiliated with intervals.icu.
+RunPulse is not affiliated with intervals.icu.
+
+### What RunPulse is for
+
+RunPulse is intended for healthy adults during running training. It is not a medical device, does not diagnose, treat, cure, or prevent any medical condition and has no emergency function. Heart rate and zone alerts help you hit the planned intensity; they do not protect you from health risks. If you feel unwell, stop training. For health questions, consult a healthcare professional.
 
 - [Privacy policy](privacy.html)
 - [Legal notice](impressum.html)
@@ -39,7 +47,7 @@ RunPulse is not a medical device and not affiliated with intervals.icu.
 ### What RunPulse reads and writes at intervals.icu
 
 - Reads your planned workouts from the calendar, your heart rate zones for running, your wellness values of the day (only to ask before replacing them) and, when you load them in the history, fitness and fatigue of the last year; for the coach also your other activities of the last 4 weeks.
-- Writes only when you tap the button: the recorded run as an activity, paired with the planned workout, and your morning values to the wellness of the day.
+- Writes only when you tap the button: the recorded run as an activity, paired with the planned workout, your morning values to the wellness of the day and the runs of a starter plan you apply to your calendar.
 - Coach: When you apply the plan your AI app proposes, RunPulse creates the runs in your calendar and deletes, one by one, those you ticked to be replaced; new heart rate zones only after your own consent. Past and finished runs stay untouched.
 - Before uploading again, looks for its own run among your activities, so nothing arrives twice.
 
