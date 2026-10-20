@@ -2,3 +2,9 @@
 title: RunPulse
 description: Pulsgesteuert laufen mit Brustgurt und Plänen aus intervals.icu
 lang: de
+# Every page uses the own layout in _layouts/default.html, which loads nothing from other servers.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
