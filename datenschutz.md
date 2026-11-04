@@ -46,7 +46,7 @@ Der Anbieter selbst übermittelt keine Daten in Länder außerhalb der EU. inter
 
 ## Sicherung und Gerätewechsel
 
-Die App schließt ihre Daten von der Sicherung in der Cloud aus. Ziehst du mit Android direkt von einem Gerät auf ein neues um, kann Android die Daten der App dabei mitnehmen. Selbst sichern kannst du deine Trainings in den Einstellungen unter „Daten“ (siehe Export und Sicherung).
+Die App schließt ihre Daten von der Sicherung in der Cloud aus. Ziehst du mit Android direkt von einem Gerät auf ein neues um, kann Android die Daten der App dabei mitnehmen. Selbst sichern kannst du deine Trainings in den Einstellungen unter „Daten“ (siehe Export und Sicherung) und die Sicherung dort später wieder zurückspielen, auch auf einem neuen Gerät. Dabei liest die App nur die Datei, die du auswählst, und fügt hinzu, was fehlt; nichts davon verlässt dein Gerät.
 
 ## Rechtsgrundlage
 
