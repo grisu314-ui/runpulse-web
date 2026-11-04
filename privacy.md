@@ -46,7 +46,7 @@ The provider itself does not transfer any data to countries outside the EU. inte
 
 ## Backup and new devices
 
-The app excludes its data from cloud backup. If you move to a new device with Android's direct device-to-device transfer, Android may take the data of the app along. You can back up your workouts yourself in the settings under “Data” (see export and backup).
+The app excludes its data from cloud backup. If you move to a new device with Android's direct device-to-device transfer, Android may take the data of the app along. You can back up your workouts yourself in the settings under “Data” (see export and backup) and restore the backup there later, also on a new device. The app reads only the file you choose and adds what is missing; none of it leaves your device.
 
 ## Legal basis
 
